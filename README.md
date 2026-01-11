@@ -1,4 +1,4 @@
-# Project Ironclad: Linux Data Center Node Simulation
+# Project: Linux Data Center Node Simulation
 **Author:** Almansur Kakimov  
 **Role:** Aspiring Data Center Technician (Google Inzai)
 
